@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Milestone Construction & Restoration",
+    "phone": "+12154065152",
+    "category": "home remodeler",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Premier Remodeling Experts",
+      "heroSubline": "Transforming homes in Philadelphia and beyond. Trust Milestone Construction & Restoration for quality craftsmanship and lasting value.",
+      "aboutTitle": "Built on Trust, Driven by Quality",
+      "aboutText": [
+        "Milestone Construction & Restoration started with a simple goal: to provide homeowners in Philadelphia with reliable and exceptional remodeling services. We've grown from a small team to a trusted name, known for our commitment to quality and customer satisfaction.",
+        "Our approach is straightforward: listen to our clients, understand their vision, and execute with precision. We believe in clear communication, transparent pricing, and a dedication to exceeding expectations on every project, big or small.",
+        "We're proud to be a part of the Philadelphia community. We source materials locally whenever possible and actively support local initiatives. We believe in building lasting relationships with our clients and contributing to the vibrancy of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering quality results that stand the test of time."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Philadelphia's unique housing styles and building codes."
+        },
+        {
+          "title": "Dedicated Support",
+          "description": "Responsive and reliable customer service throughout your project."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Milestone Construction & Restoration today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Revitalize your kitchen with our expert remodeling services.",
+        "description": "The kitchen is the heart of your home. Milestone Construction & Restoration specializes in creating functional and beautiful kitchens tailored to your needs and style. From minor updates to complete overhauls, we handle every aspect of your kitchen remodel with precision and care.\n\nWe start with a detailed design consultation, considering your lifestyle, cooking habits, and aesthetic preferences. We offer a wide range of options, including custom cabinetry, countertop installation, flooring upgrades, appliance integration, and lighting solutions. Our team is experienced in working with Philadelphia's diverse housing stock, from historic row homes to modern condos.\n\nWe understand the importance of minimizing disruption during the remodeling process. Our team works efficiently and respectfully, ensuring a clean and safe work environment. We handle all necessary permits and inspections, providing you with a seamless and stress-free experience. We ensure the project stays on budget and on schedule.",
+        "process": [
+          "Step 1: Initial Consultation & Design",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Demolition & Construction",
+          "Step 4: Installation & Finishing Touches"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and storage",
+          "Enhanced aesthetic appeal",
+          "Energy-efficient upgrades"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks. We provide a detailed schedule during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It's usually possible to remain in your home during a kitchen remodel, but it can be disruptive. We take measures to minimize dust and noise and maintain a clean work area."
+          },
+          {
+            "question": "What permits are required for a kitchen remodel in Philadelphia?",
+            "answer": "Permit requirements depend on the extent of the work. We handle all necessary permit applications and ensure compliance with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a spa-like retreat.",
+        "description": "Milestone Construction & Restoration offers comprehensive bathroom remodeling services, creating functional and stylish spaces tailored to your needs. Whether you're looking to update fixtures, reconfigure the layout, or create a luxurious master bath, we have the expertise to bring your vision to life.\n\nWe specialize in working with the unique challenges of Philadelphia's older homes, including limited space and outdated plumbing. Our team is skilled in tile installation, shower and tub replacements, vanity upgrades, and lighting design. We use high-quality materials and proven techniques to ensure a durable and beautiful result.\n\nWe understand the importance of proper ventilation and waterproofing in bathrooms. We take extra care to prevent moisture damage and ensure long-lasting performance. Our team will work directly with you every step of the way, from initial design to the final touches.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Fixture & Material Selection",
+          "Step 3: Demolition & Plumbing/Electrical",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved comfort and functionality",
+          "Modernized aesthetics",
+          "Water-efficient upgrades"
+        ],
+        "faq": [
+          {
+            "question": "How much does a bathroom remodel cost?",
+            "answer": "The cost of a bathroom remodel varies depending on the size, scope, and materials used. We provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Can you help with design ideas for my small bathroom?",
+            "answer": "Absolutely! We have experience maximizing space in small bathrooms and can offer creative design solutions."
+          },
+          {
+            "question": "What type of ventilation is recommended for a bathroom?",
+            "answer": "Proper ventilation is crucial to prevent moisture damage. We typically recommend installing a high-quality exhaust fan vented to the outside."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Maximize your living space with our basement finishing services.",
+        "description": "Unlock the potential of your basement with Milestone Construction & Restoration's professional finishing services. We transform unfinished basements into functional and comfortable living areas, adding value and square footage to your home.\n\nOur team handles all aspects of basement finishing, including framing, insulation, drywall, flooring, and electrical and plumbing work. We pay close attention to moisture control and ventilation to ensure a healthy and comfortable environment. We are familiar with Philadelphia's unique basement conditions and can address any challenges, such as low ceilings or dampness.\n\nWhether you envision a home theater, a playroom, a home office, or an extra bedroom, we can create a custom basement design that meets your needs and budget. We handle all necessary permits and inspections, ensuring compliance with local building codes.",
+        "process": [
+          "Step 1: Assessment & Design Planning",
+          "Step 2: Framing & Insulation",
+          "Step 3: Electrical & Plumbing",
+          "Step 4: Drywall, Flooring & Finishing"
+        ],
+        "benefits": [
+          "Increased living space",
+          "Increased home value",
+          "Customizable design",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "Is it worth finishing my basement?",
+            "answer": "Finishing your basement is a great way to add value and living space to your home. It can significantly increase your property value."
+          },
+          {
+            "question": "How do I prevent moisture problems in my basement?",
+            "answer": "Proper waterproofing and ventilation are essential. We use moisture-resistant materials and ensure adequate ventilation to prevent moisture buildup."
+          },
+          {
+            "question": "What permits are required for basement finishing in Philadelphia?",
+            "answer": "Permits are typically required for basement finishing. We handle all necessary permit applications and inspections."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with our comprehensive roofing solutions.",
+        "description": "Milestone Construction & Restoration provides expert roofing services, including repairs, replacements, and installations. We understand the importance of a strong and reliable roof in protecting your home from the elements, especially the harsh winters and severe weather common in Philadelphia.\n\nWe work with a variety of roofing materials, including asphalt shingles, slate, and metal roofing. Our team is experienced in working on Philadelphia's diverse architectural styles, from historic row homes to modern buildings. We provide thorough inspections to identify potential problems and offer cost-effective solutions.\n\nWhether you need a minor repair or a complete roof replacement, we use high-quality materials and proven techniques to ensure a durable and long-lasting result. We are committed to providing exceptional customer service and exceeding your expectations.",
+        "process": [
+          "Step 1: Roof Inspection & Assessment",
+          "Step 2: Material Selection & Estimate",
+          "Step 3: Removal of Old Roofing",
+          "Step 4: Installation of New Roofing System"
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs of a failing roof include leaks, missing shingles, and excessive granule loss. We offer free roof inspections to assess the condition of your roof."
+          },
+          {
+            "question": "How long does a new roof last?",
+            "answer": "The lifespan of a roof depends on the materials used and the quality of installation. Asphalt shingles typically last 20-30 years, while slate and metal roofs can last much longer."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, we are fully licensed and insured for your protection and peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "masonry-restoration",
+        "name": "Masonry Restoration",
+        "shortDescription": "Preserve the beauty and integrity of your brickwork.",
+        "description": "Milestone Construction & Restoration specializes in masonry restoration for Philadelphia's historic buildings and homes. We understand the unique challenges of maintaining brick and stone structures in a climate with freeze-thaw cycles and heavy rainfall. Our team has the expertise to repair and restore damaged masonry, preserving its beauty and structural integrity.\n\nWe offer a range of masonry services, including brick repointing, crack repair, stone replacement, and chimney restoration. We use traditional techniques and high-quality materials to ensure a seamless and durable repair. We are committed to preserving the historical character of Philadelphia's architectural heritage.\n\nFrom small repairs to large-scale restoration projects, we provide exceptional craftsmanship and attention to detail. We work closely with homeowners and property managers to develop customized solutions that meet their needs and budget. We understand the nuances of Philadelphia's rowhomes and the importance of matching existing materials.",
+        "process": [
+          "Step 1: Masonry Inspection & Assessment",
+          "Step 2: Material Matching & Selection",
+          "Step 3: Mortar Removal & Repointing",
+          "Step 4: Brick & Stone Repair/Replacement"
+        ],
+        "benefits": [
+          "Preserved historical character",
+          "Improved structural integrity",
+          "Enhanced curb appeal",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "Why is masonry restoration important in Philadelphia?",
+            "answer": "Philadelphia's historic buildings are susceptible to damage from freeze-thaw cycles and pollution. Masonry restoration helps preserve these structures for future generations."
+          },
+          {
+            "question": "What is brick repointing?",
+            "answer": "Repointing is the process of removing and replacing damaged mortar between bricks. It helps prevent water damage and maintain the structural integrity of the wall."
+          },
+          {
+            "question": "How do you match the existing mortar?",
+            "answer": "We carefully analyze the existing mortar and use a custom blend to match its color and texture."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Enhance your home's curb appeal and protection with new siding.",
+        "description": "Milestone Construction & Restoration offers professional siding installation services, providing homeowners in Philadelphia with durable and attractive siding options. New siding can dramatically improve your home's curb appeal, protect it from the elements, and increase its energy efficiency.\n\nWe work with a variety of siding materials, including vinyl, wood, and fiber cement. Our team is experienced in installing siding on Philadelphia's diverse architectural styles, from row homes to Victorian twins. We provide expert guidance to help you choose the best siding option for your needs and budget.\n\nWe pay close attention to detail during the installation process, ensuring a seamless and weather-tight fit. We use high-quality materials and proven techniques to ensure a long-lasting and beautiful result. We are committed to providing exceptional customer service and exceeding your expectations.",
+        "process": [
+          "Step 1: Siding Consultation & Selection",
+          "Step 2: Removal of Old Siding",
+          "Step 3: Installation of Underlayment",
+          "Step 4: Siding Installation & Finishing"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of new siding?",
+            "answer": "New siding can improve your home's appearance, protect it from the elements, increase its energy efficiency, and increase its value."
+          },
+          {
+            "question": "What type of siding is best for my home?",
+            "answer": "The best type of siding depends on your budget, aesthetic preferences, and the architectural style of your home. We can help you choose the right option."
+          },
+          {
+            "question": "How long does siding installation take?",
+            "answer": "The timeline for siding installation depends on the size of your home and the type of siding being installed. We provide a detailed schedule during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration is proud to offer comprehensive home remodeling services throughout Philadelphia. From historic row homes in South Philly to modern apartments in Center City, we understand the unique architectural styles and challenges that Philadelphia homeowners face. Our team of experienced professionals is dedicated to providing top-quality craftsmanship and exceptional customer service, ensuring your remodeling project is a stress-free and enjoyable experience.\n\nWe specialize in kitchen and bathroom renovations, basement finishing, whole-home remodels, and more. Whether you're looking to update your outdated kitchen, create a luxurious spa-like bathroom, or add valuable living space to your home, Milestone Construction & Restoration has the expertise and resources to bring your vision to life. We use only the finest materials and employ proven construction techniques to ensure lasting results that you'll be proud of for years to come.",
+        "localContext": "Philadelphia, steeped in history, features diverse neighborhoods each with their own distinct character and architectural styles, requiring a nuanced approach to remodeling.",
+        "nearbyAreas": [
+          "Cherry Hill, NJ",
+          "Upper Darby, PA",
+          "Camden, NJ"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration extends its expert remodeling services to Upper Darby, PA. We're familiar with the diverse housing stock in Upper Darby, from classic colonial homes to newer construction. Whether you're looking to update a single room or transform your entire home, our team is equipped to handle all your remodeling needs. We prioritize clear communication and attention to detail, ensuring your project is completed on time and within budget.\n\nWe offer a wide range of services including kitchen and bathroom renovations, basement finishing, and home additions. Our goal is to create spaces that are both functional and beautiful, reflecting your personal style and enhancing your lifestyle. We're committed to using sustainable practices and energy-efficient materials whenever possible, helping you create a more comfortable and environmentally friendly home.",
+        "localContext": "Upper Darby, a diverse and vibrant township, boasts a mix of housing styles, requiring a versatile approach to home remodeling projects.",
+        "nearbyAreas": [
+          "Philadelphia, PA",
+          "Drexel Hill, PA",
+          "Clifton Heights, PA"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration proudly serves Drexel Hill, PA, providing top-notch home remodeling services. We understand the unique charm of Drexel Hill's homes and are dedicated to preserving their character while incorporating modern updates. Our team works closely with homeowners to develop customized remodeling plans that meet their specific needs and preferences.\n\nFrom kitchen and bathroom renovations to basement finishing and whole-house transformations, we offer a comprehensive range of services. We use high-quality materials and skilled craftsmanship to ensure lasting results that enhance the value and beauty of your home. We're committed to providing exceptional customer service and building lasting relationships with our clients in Drexel Hill.",
+        "localContext": "Drexel Hill, known for its tree-lined streets and established homes, presents unique opportunities for remodeling projects that blend classic charm with modern amenities.",
+        "nearbyAreas": [
+          "Upper Darby, PA",
+          "Springfield, PA",
+          "Havertown, PA"
+        ]
+      },
+      {
+        "city": "Springfield",
+        "slug": "springfield-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration is delighted to offer its professional remodeling services to the residents of Springfield, PA. We appreciate the strong sense of community in Springfield and strive to provide remodeling solutions that enhance the quality of life for homeowners. Our team is experienced in working with a variety of home styles, from traditional to contemporary, and can tailor our services to meet your individual needs.\n\nWhether you're looking to update your kitchen, renovate your bathroom, or add an addition to your home, we have the expertise and resources to deliver exceptional results. We're committed to using sustainable building practices and energy-efficient materials whenever possible, helping you create a more comfortable and environmentally friendly home. Our focus is on providing quality workmanship and superior customer service.",
+        "localContext": "Springfield, a family-friendly community, often sees remodeling projects focused on expanding living spaces and creating functional areas for growing families.",
+        "nearbyAreas": [
+          "Swarthmore, PA",
+          "Morton, PA",
+          "Media, PA"
+        ]
+      },
+      {
+        "city": "Havertown",
+        "slug": "havertown-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration is your trusted partner for home remodeling in Havertown, PA. We understand the unique character of Havertown homes and are dedicated to providing remodeling services that enhance their beauty and functionality. Our team is committed to delivering exceptional craftsmanship and personalized service to every client.\n\nWe offer a wide range of services, including kitchen and bathroom renovations, basement finishing, and home additions. Whether you're looking to update your existing space or create something entirely new, we have the expertise to bring your vision to life. We prioritize clear communication and attention to detail, ensuring your project is completed on time and within budget.",
+        "localContext": "Havertown, with its close-knit community and diverse housing styles, often sees remodeling projects focused on updating kitchens and bathrooms to meet modern needs.",
+        "nearbyAreas": [
+          "Broomall, PA",
+          "Drexel Hill, PA",
+          "Ardmore, PA"
+        ]
+      },
+      {
+        "city": "Broomall",
+        "slug": "broomall-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration proudly extends our home remodeling expertise to Broomall, PA. We recognize the diverse architectural styles in Broomall, from classic suburban homes to contemporary designs. Our team is adept at tailoring our remodeling services to complement the unique character of each home, ensuring a seamless and beautiful result.\n\nWe offer a comprehensive suite of services, including kitchen and bathroom renovations, basement finishing, and custom home additions. Our commitment is to transform your living spaces into areas that reflect your personal style and enhance your lifestyle. We use only the highest quality materials and employ skilled craftsmen to guarantee durable and aesthetically pleasing results.",
+        "localContext": "Broomall, a vibrant suburban community, often sees remodeling projects centered around creating open-concept living spaces and modernizing kitchens for family gatherings.",
+        "nearbyAreas": [
+          "Havertown, PA",
+          "Newtown Square, PA",
+          "Media, PA"
+        ]
+      },
+      {
+        "city": "Media",
+        "slug": "media-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration is pleased to provide top-quality home remodeling services to Media, PA. We are familiar with the historic charm and architectural diversity of Media's homes. Whether you're looking to preserve the character of your historic home or create a modern living space, our team has the expertise to meet your needs.\n\nWe offer a full range of remodeling services, including kitchen and bathroom renovations, basement finishing, and whole-house remodels. We are committed to using sustainable building practices and energy-efficient materials whenever possible. Our goal is to create beautiful, functional, and environmentally friendly spaces that you will enjoy for years to come.",
+        "localContext": "Media, a borough steeped in history and known for its charming downtown, often sees remodeling projects focused on preserving historical elements while incorporating modern amenities.",
+        "nearbyAreas": [
+          "Swarthmore, PA",
+          "Broomall, PA",
+          "Springfield, PA"
+        ]
+      },
+      {
+        "city": "Swarthmore",
+        "slug": "swarthmore-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration offers expert home remodeling services in Swarthmore, PA. We appreciate the unique architectural styles found in Swarthmore, from historic homes to contemporary designs. Our team is dedicated to providing customized remodeling solutions that enhance the beauty and functionality of your home.\n\nWe offer a wide range of services, including kitchen and bathroom renovations, basement finishing, and home additions. Whether you're looking to update your existing space or create something entirely new, we have the expertise to bring your vision to life. We prioritize clear communication and attention to detail, ensuring your project is completed on time and within budget.",
+        "localContext": "Swarthmore, known for its academic atmosphere and beautiful architecture, often sees remodeling projects focused on creating comfortable and functional spaces for families and students.",
+        "nearbyAreas": [
+          "Springfield, PA",
+          "Media, PA",
+          "Wallingford, PA"
+        ]
+      },
+      {
+        "city": "Ardmore",
+        "slug": "ardmore-pa",
+        "state": "PA",
+        "content": "Milestone Construction & Restoration provides comprehensive home remodeling services to Ardmore, PA. We understand the diverse architectural landscape of Ardmore, ranging from historic homes to modern apartments. Our team is equipped to handle any remodeling project, big or small, with precision and care.\n\nWe specialize in kitchen and bathroom renovations, basement finishing, and whole-home remodels. We pride ourselves on using high-quality materials and employing skilled craftsmen to ensure lasting results. Our commitment is to transform your living spaces into areas that reflect your personal style and enhance your lifestyle.",
+        "localContext": "Ardmore, a bustling town with a vibrant downtown area, often sees remodeling projects focused on updating kitchens and bathrooms to meet the demands of modern living.",
+        "nearbyAreas": [
+          "Haverford, PA",
+          "Bala Cynwyd, PA",
+          "Wynnewood, PA"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Milestone Construction did an outstanding job remodeling my kitchen! They were professional, efficient, and the quality of their work is exceptional. I highly recommend them to anyone looking to update their home.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Milestone to remodel our master bathroom, and we're very pleased with the results. There were a couple of minor hiccups along the way, but they addressed them quickly and professionally. The finished product is beautiful!",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Milestone Construction transformed our unfinished basement into a fantastic family room. The team was knowledgeable, courteous, and always kept us informed throughout the project. We couldn't be happier!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Roofing Services",
+        "text": "After a bad storm, we needed our roof repaired quickly. Milestone Construction responded promptly and did an excellent job fixing the damage. Their prices were fair, and their service was top-notch.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Masonry Restoration",
+        "text": "Milestone Construction did a great job restoring the brick facade on our old row home in Fishtown. They were careful to match the existing brick and mortar, and the finished product looks seamless. The crew was always on time and respectful of our property.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "We hired Milestone to completely renovate our kitchen in our West Philly Victorian. It was a big job involving moving walls and completely redoing the electrical and plumbing. They handled everything with professionalism and skill. The design team helped us create a kitchen that is both beautiful and functional. Highly recommended!",
+        "date": "2025-03-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Milestone Construction | Philadelphia Remodeler",
+        "description": "Top Philadelphia remodeling contractor. Kitchen, bath, basement, roofing, masonry. Quality craftsmanship. Free estimates."
+      },
+      "about": {
+        "title": "About Us | Milestone Construction & Restoration",
+        "description": "Learn about Milestone Construction & Restoration. Philadelphia's trusted home remodeling experts. Quality, integrity, and customer satisfaction."
+      },
+      "services": {
+        "title": "Our Services | Milestone Construction & Restoration",
+        "description": "Comprehensive remodeling services in Philadelphia. Kitchen remodeling, bathroom remodeling, roofing, masonry, and more."
+      },
+      "contact": {
+        "title": "Contact Us | Milestone Construction & Restoration",
+        "description": "Contact Milestone Construction & Restoration for your remodeling needs. Get a free estimate. Call us today!"
+      },
+      "reviews": {
+        "title": "Reviews | Milestone Construction & Restoration",
+        "description": "Read reviews from satisfied Milestone Construction & Restoration customers. See why we are Philadelphia's trusted remodeler."
+      },
+      "service-areas": {
+        "title": "Service Areas | Milestone Construction & Restoration",
+        "description": "Milestone Construction & Restoration serves Philadelphia and surrounding areas. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "masonry-restoration": "/images/service-masonry-restoration.webp",
+      "siding-installation": "/images/service-siding-installation.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "masonry-restoration": {
+        "src": "/images/service-masonry-restoration.webp",
+        "srcset": "/images/service-masonry-restoration-400w.webp 400w, /images/service-masonry-restoration-800w.webp 800w, /images/service-masonry-restoration-1200w.webp 1200w, /images/service-masonry-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
